@@ -1,0 +1,4 @@
+define 10 a
+define -10 b
+define 10 z
+eval v > c
